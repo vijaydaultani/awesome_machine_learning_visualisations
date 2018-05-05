@@ -1,0 +1,127 @@
+Other Text:
+	Urban Dictionary Dataset:
+	The Penn Treebank Project:
+	Stanford Natural Language Inference (SNLI) Corpus:
+	Social Structure of Facebook Networks:
+	Sentiment Labeleld Sentences Dataset:
+	Personae Corpus:
+	Legal Case Reports:
+	Google Books N-grams:
+	DSL Corpus Collection (DSLCC):
+	Dexter Dataset:
+	Dataset for the Machine Comprehension of Text:
+	CNAE-9 Dataset:
+	Blogger Authorship Corpus:
+	Blog Feedback Dataset:
+Reviews:
+	Amazon reviews:
+	Car Evaluation Dataset:
+	MovieLens:
+	Open Rank Review Dataset:
+	Skytrax User Reviews Dataset:
+	Teaching Assistant Evaluation Dataset:
+	Yahoo Music User Ratings of Musical Artists:
+	YouTube Comedy Slam Preference Dataset:
+Music:
+	Bach Choral Harmony Dataset:
+	Free Music Archive:
+	Million Song Dataset:
+	Music Geographical Original of Music Data:
+	Other Sounds:
+		AudioSet:
+		UrbanSound:
+Sound Data:
+	Arabic Speech Corpus:
+	ISOLET Dataset:
+	Japanese Vowels Dataset:
+	Parkinson Speech Dataset:
+	Parkinson’s Telemonitoring Dataset:
+	Spoken Arabic Digits:
+	TIMIT:
+	Zero Resource Speech Challenge 2015:
+Signal Data:
+	Cuff-Less Blood Pressure Estimation Dataset:
+	Gas Sensor Array Drift Dataset:
+	Senseless Drive Diagnosis Dataset:
+	Servo Dataset:
+	UJIIndoorLoc-Mag Dataset:
+	Witty Worm Dataset:
+NLP Tasks:
+	Word Prediction:
+	Word Embeddings:
+		Text Embedding:
+			fastText:
+			GloVe:
+			word2vec:
+	Voice Recognition:
+	Voice Conversion:
+	Transliteration:
+	Text-To-Speech:
+	Text Summarization:
+	Text Simplification:
+	Text Similarity:
+	Term Extraction:
+	Speech Recognition:
+		Speech:
+			Speech recognition:
+		Speech Enhancement:
+		Speech Reading:
+		Speech Segmentation:
+		Speech Synthesis:
+		Speech-To-Text:
+		Spoken Term Detection:
+	Speaker:
+		Speaker Authentication:
+		Speaker Diarisation:
+		Speaker Recognition:
+	Source Separation:
+	Social Science Applications:
+	Sentiment Analysis:
+		Topic segmentation and recognition:
+		Word sense disambiguation:
+	Singing Voice Synthesis:
+	Semantic Role Labeling:
+	Sentence Boundary Disambiguation:
+	Paraphrase Generation:
+	Paraphrase Detection:
+	Named Entity Disambiguation:
+	Lip-reading:
+	Language Recognition:
+	Language Modelling:
+	Language Identification:
+	Language Guessing:
+	Language Grounding:
+	Humour and Sarcasm Dettection:
+	Grapheme to Phoneme conversion:
+	Grammatical Error Correction:
+	Entity Linking:
+	Discourse:
+		Automatic Summarization:
+		Coreference resolution:
+		Discourse analysis:
+	Automatic Summarisation:
+	Automated Essay Scoring:
+	Anaphora Resolution:
+Twitter and tweets:
+	ASU Twitter Dataset:
+	Buzz in Social Media Dataset:
+	Paraphrase and Semantic Similarity in Twitter:
+	Sentiment140:
+	SNAP Social Circles: Twitter Database:
+	Twitter Dataset for Arabic Sentiment Analysis:
+News Article:
+	ABC Australia News Corpus:
+	Examiner Pseudo News Corpus:
+	NYSK Dataset:
+	RE3D (Relationship and Entity Extraction Evaluation Dataset):
+	Saudi Newspapers Corpus:
+	The Reuters Corpus Volume 1:
+	The Reuters Corpus Volume 2:
+	Thomson Reuters Text Research Collection:
+	Worldwide News - Aggregate of 20K Feeds:
+Messages:
+	Spambase Dataset:
+	Twenty Newsgroups Dataset:
+	SMS Spam Collection Dataset:
+	Ling-Spam Dataset:
+	Enron Email Dataset:

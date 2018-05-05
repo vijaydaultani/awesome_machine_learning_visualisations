@@ -1,0 +1,89 @@
+Aerial Images Datasets:
+	Overhead Imagery Research Dataset:
+	SpaceNet:
+	Wilt Dataset:
+	KIT AIS Dataset:
+	Forest Type Mapping Dataset:
+	Aerial Image Segmentation Dataset:
+Action Recognition Datasets:
+	MSP-AVATAR:
+	MEXAvtion2:
+	LILiR Twotalk Corpus:
+	Human Motion Database (HMDB51):
+	Berkeley Multimodal Human Action Database (MHAD):
+	Activityent:
+	SBU Interact:
+	THUMOS Dataset:
+	TV Human Interaction Datasett:
+	UCF 101 Dataset:
+	UT Interaction:
+	UT Kinect:
+Object Detection and Recognition Datasets:
+	11K Hands:
+	Berkeley 3-D Object Dataset:
+	Berkeley Segmentation Dataset and Benchmarkes 500 (BSDS500):
+	Caltech - 256:
+	Caltech 101:
+	CIFAR-10 Dataset:
+	CIFAR-100 Dataset:
+	Cityscapes Dataset:
+	CORe50:
+	DAVIS: Densely Annotated Video Segmentation:
+	Fashion-MNIST:
+	FieldSAFE:
+	German Traffic Sign Detection Benchmark Dataset:
+	TV News Channel Commercial Detection Dataset:
+	T-LESS: An RGB-D Dataset for 6D Pose Estimation for Texture-less Objects:
+	SUN Database:
+	Stat log (Image Segmentation Dataset):
+	SIFT10M Dataset:
+	PASCAL VOC Dataset:
+	notMNIST:
+	Microsoft Common Objects in Context (COCO):
+	Linnaeus 5 Dataset:
+	LabelMe:
+	KITTI Vision Benchmark Dataset:
+	ImageNet:
+COMPUTER VISION TASKS:
+	Scene Reconstruction:
+	Object Recognition and Recognition:
+	Motion Analysis:
+	Image Restoration:
+	Handwriting and Character Recognition:
+	Facial Recognition:
+	Aerial Images:
+	Action Recognition:
+Facial Recognition Datasets:
+	FaceScrub:
+	Face Recognition Grand Challenge Dataset:
+	Cohn-Kanade AU-Coded Expression Database:
+	CMU Pose, Illumination and Expression:
+	CMU Face Images Dataset:
+	CASIA:
+	BU-3DFE:
+	Bosphorus:
+	BioID Face Database:
+	3D-RMA:
+	300 Videos in-the-wild:
+	FERET (Facial Recognition Technology:
+	Gavabdb:
+	Grammatical Facial Expressions Dataset:
+	Mut1ny Face/Head Segmentation Dataset:
+	SCFace:
+	Skin Segmentation Dataset:
+	SoF:
+	UOY 3D-Face:
+	Yale Face Database:
+	YouTube Faces DB:
+Handwriting and Character Recognition Datasets:
+	Optical Recognition of Handwritten Digits Dataset:
+	Pen-Based Recognition of Handwritten Digits Dataset:
+	Semeio Handwritten Digit Dataset:
+	UJI Pen Characters Dataset:
+	MNIST Dataset:
+	Letter Dataset:
+	HASYv2:
+	Giselle Dataset:
+	Chars74K Dataset:
+	Character Trajectories Dataset:
+	Artificial Characters Dataset:
