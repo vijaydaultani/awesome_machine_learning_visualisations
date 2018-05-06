@@ -1,4 +1,4 @@
-# awesome_machine_learning_visualisations
+# awesome machine learning visualisations
 Repository to easily visualise machine learning tasks, datasets, and tools.
 
 
